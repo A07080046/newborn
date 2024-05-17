@@ -1,0 +1,22 @@
+{
+    "title": "12周",
+    "description": "",
+    "author": "walker",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "plugins": [
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "livereload",
+        "hide-element",
+        "ancre-navigation"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link",".pull-right"]
+        }
+    
+    }
+}
