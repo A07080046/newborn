@@ -1,9 +1,0 @@
-.DS_Store
-unpackage/
-.hbuilderx/
-.vite/
-/node_modules
-/uni_modules
-*.epub
-*.docx
-.vscode
